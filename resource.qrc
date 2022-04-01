@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Static/wallpaper.webp</file>
+  </qresource>
+</RCC>
